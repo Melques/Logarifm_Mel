@@ -1,0 +1,21 @@
+D:\ProjectsVisual\Logarifm\Logarifm\bin\Debug\Logarifm.exe.config
+D:\ProjectsVisual\Logarifm\Logarifm\bin\Debug\Logarifm.exe
+D:\ProjectsVisual\Logarifm\Logarifm\bin\Debug\Logarifm.pdb
+D:\ProjectsVisual\Logarifm\Logarifm\obj\Debug\Logarifm.csproj.AssemblyReference.cache
+D:\ProjectsVisual\Logarifm\Logarifm\obj\Debug\Logarifm.csproj.SuggestedBindingRedirects.cache
+D:\ProjectsVisual\Logarifm\Logarifm\obj\Debug\Logarifm.Form1.resources
+D:\ProjectsVisual\Logarifm\Logarifm\obj\Debug\Logarifm.Properties.Resources.resources
+D:\ProjectsVisual\Logarifm\Logarifm\obj\Debug\Logarifm.csproj.GenerateResource.cache
+D:\ProjectsVisual\Logarifm\Logarifm\obj\Debug\Logarifm.csproj.CoreCompileInputs.cache
+D:\ProjectsVisual\Logarifm\Logarifm\obj\Debug\Logarifm.exe
+D:\ProjectsVisual\Logarifm\Logarifm\obj\Debug\Logarifm.pdb
+D:\Bulat\Programme works\OKH\Logarifm\Logarifm\Logarifm\bin\Debug\Logarifm.exe.config
+D:\Bulat\Programme works\OKH\Logarifm\Logarifm\Logarifm\bin\Debug\Logarifm.exe
+D:\Bulat\Programme works\OKH\Logarifm\Logarifm\Logarifm\bin\Debug\Logarifm.pdb
+D:\Bulat\Programme works\OKH\Logarifm\Logarifm\Logarifm\obj\Debug\Logarifm.csproj.AssemblyReference.cache
+D:\Bulat\Programme works\OKH\Logarifm\Logarifm\Logarifm\obj\Debug\Logarifm.Form1.resources
+D:\Bulat\Programme works\OKH\Logarifm\Logarifm\Logarifm\obj\Debug\Logarifm.Properties.Resources.resources
+D:\Bulat\Programme works\OKH\Logarifm\Logarifm\Logarifm\obj\Debug\Logarifm.csproj.GenerateResource.cache
+D:\Bulat\Programme works\OKH\Logarifm\Logarifm\Logarifm\obj\Debug\Logarifm.csproj.CoreCompileInputs.cache
+D:\Bulat\Programme works\OKH\Logarifm\Logarifm\Logarifm\obj\Debug\Logarifm.exe
+D:\Bulat\Programme works\OKH\Logarifm\Logarifm\Logarifm\obj\Debug\Logarifm.pdb
